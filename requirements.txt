@@ -1,7 +1,0 @@
-ipykernel
-ipython
-streamlit==1.35.0
-tensorflow-cpu==2.18.0
-keras == 3.8.0
-numpy==1.19.3
-Pillow==10.2.0
