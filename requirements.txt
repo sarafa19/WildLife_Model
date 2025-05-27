@@ -19,4 +19,4 @@ streamlit-timeline==0.0.2
 streamlit_folium==0.22.0
 tensorfow == 2.18
 keras
-PIL
+Pillow==10.2.0
